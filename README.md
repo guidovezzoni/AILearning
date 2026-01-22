@@ -18,6 +18,7 @@ This list is WIP, I'll add more courses as I search and try them.
 - [Free short courses on codecademy](https://www.codecademy.com/catalog/subject/artificial-intelligence) - Select free courses or any other filter. For instance:
   - [Learn How to Use AI for Coding](https://www.codecademy.com/learn/prompt-engineering-for-software-engineers)
   - [Intro to AI Coding with Cursor](https://www.codecademy.com/learn/intro-to-ai-coding-with-cursor)
+- [Tutorial: Build Youtube in Lovable](https://lovable.dev/video/tutorial-build-youtube-in-lovable)
  
 ## AI Agents & Automation
 - [Free short courses on codecademy](https://www.codecademy.com/catalog/subject/artificial-intelligence) - Select free courses or any other filter. For instance:
