@@ -1,5 +1,7 @@
-# AILearning
-A list of courses to learn the basics about AI and AI Tools for developers
+# AI Learning
+A list of courses to learn the basics about AI and AI Tools for developers.
+
+This list is WIP, I'll add more courses as I search and try them.
 
 ## AI & LLM Fundamentals
 - [Elements of AI – University of Helsinki](https://www.elementsofai.com/)
