@@ -20,6 +20,7 @@ This list is WIP, I'll add more courses as I search and try them.
   - [Intro to AI Coding with Cursor](https://www.codecademy.com/learn/intro-to-ai-coding-with-cursor)
 - [Tutorial: Build Youtube in Lovable](https://lovable.dev/video/tutorial-build-youtube-in-lovable)
 - [Cursor Learn](https://cursor.com/learn)
+- [Claude Code](https://anthropic.skilljar.com/claude-code-in-action)
  
 ## AI Agents & Automation
 - [Free short courses on codecademy](https://www.codecademy.com/catalog/subject/artificial-intelligence) - Select free courses or any other filter. For instance:
