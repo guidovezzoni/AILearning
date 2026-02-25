@@ -29,3 +29,6 @@ This list is WIP, I'll add more courses as I search and try them.
 
 ## UI & UX with AI
 - 
+
+## AI Engineering
+- (AI Engineer on Codecademy)[https://www.codecademy.com/learn/paths/ai-engineer]
