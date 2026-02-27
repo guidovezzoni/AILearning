@@ -31,4 +31,4 @@ This list is WIP, I'll add more courses as I search and try them.
 - 
 
 ## AI Engineering
-- (AI Engineer on Codecademy)[https://www.codecademy.com/learn/paths/ai-engineer]
+- [AI Engineer on Codecademy](https://www.codecademy.com/learn/paths/ai-engineer)
